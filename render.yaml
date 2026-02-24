@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: my-portfolio
+    name: my-portfolio-new
     runtime: node
     plan: free
     buildCommand: npm install && npm run build
