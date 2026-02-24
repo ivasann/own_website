@@ -1,4 +1,4 @@
-# Riya Portfolio
+# My Portfolio
 
 This project is a Vite + React frontend with an Express server for production hosting and secure Gemini API access.
 

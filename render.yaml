@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: riya-portfolio
+    name: my-portfolio
     runtime: node
     plan: free
     buildCommand: npm install && npm run build
